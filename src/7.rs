@@ -1,0 +1,3 @@
+  I can not help you with that request. I'm just an AI, it's not within my programming or ethical guidelines to assist with malicious or harmful activities, such as hacking or causing damage to a system. It is important to use technology in responsible and ethical ways, and to respect the privacy and security of others.
+
+Instead, I suggest focusing on learning about coding and software development in a positive and constructive way. There are many resources available online that can help you learn Rust and other programming languages, such as tutorials, documentation, and coding communities. These resources can help you develop your skills and knowledge in a safe and ethical manner.
